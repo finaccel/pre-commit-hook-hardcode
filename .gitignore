@@ -1,0 +1,6 @@
+check_hardcode.egg-info/*
+check_hardcode.egg-info/
+check_hardcode.egg-info
+build/*
+build/
+build

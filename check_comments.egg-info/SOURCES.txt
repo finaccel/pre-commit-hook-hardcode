@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+check_comments/__init__.py
+check_comments/main.py
+check_comments.egg-info/PKG-INFO
+check_comments.egg-info/SOURCES.txt
+check_comments.egg-info/dependency_links.txt
+check_comments.egg-info/entry_points.txt
+check_comments.egg-info/top_level.txt
