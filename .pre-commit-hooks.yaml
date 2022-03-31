@@ -1,5 +1,5 @@
 - id: check-hardcode
   name: Check Hardcode
   description: This repo for check any hardcode
-  entry: check_hardcode
+  entry: check-hardcode
   language: python
