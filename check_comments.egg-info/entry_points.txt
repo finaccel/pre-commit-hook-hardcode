@@ -1,3 +1,0 @@
-[console_scripts]
-check-comments = check_comments.main:main
-
